@@ -244,11 +244,7 @@ cursor: pointer;
         padding: 0 10px;
         margin-top: 50px;
     }
-    .col{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
+    
     .col img{
         width: 40px;
         margin-right: 5px;
